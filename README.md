@@ -4,4 +4,5 @@ Siamo sfigati...HackerRank va in manutenzione proprio quando c'è la nostra codi
 
 Ma non ci faremo fermare da quattro sistemisti :)
 
-In questo repository trovate i 3 pdf con le challenges di stasera. Le risolveremo localmente e poi discuteremo i risultati. Domani HackerRank tornerà attivo e potrete provare le vostre soluzioni.
+In questo repository trovate i 3 pdf con le challenges di stasera e alcuni esempi di input/output significativi. 
+Le risolveremo localmente e poi discuteremo i risultati. Domani HackerRank tornerà attivo e potrete provare le vostre soluzioni.
